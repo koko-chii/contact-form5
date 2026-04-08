@@ -3,13 +3,12 @@
 .thanks__content {
     display: flex;
     justify-content: center;
-    align-items: center;
-    height: 80vh;
 }
 
 .thanks__heading h2 {
-    font-size: 20px;
+    font-size: 24px;
     font-weight: bold;
     color: #333;
+    margin-top:50px;
 }
 

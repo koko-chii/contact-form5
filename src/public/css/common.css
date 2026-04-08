@@ -6,9 +6,10 @@
 
 .header__inner {
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 0;
     display: flex;
     justify-content: left;
+    padding-left: 50px;
     align-items: center;
     height: 100%;
 }
